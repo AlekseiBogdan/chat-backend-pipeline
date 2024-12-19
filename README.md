@@ -55,7 +55,8 @@
 | пользователю                |
 +-----------------------------+
 ```
-![Flowchart](https://github.com/user-attachments/assets/dcafd459-5945-47c8-803d-6cbbf2296b97)
+![Flowchart](https://github.com/user-attachments/assets/e22c0c90-cd85-4caf-bf79-e9f647d2a5fe)
+
 
 ## Зависимости:
 - Flask - создания веб-сервера
