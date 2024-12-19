@@ -53,6 +53,8 @@
 | пользователю                |
 +-----------------------------+
 ```
+![Flowchart](https://github.com/user-attachments/assets/dcafd459-5945-47c8-803d-6cbbf2296b97)
+
 ## Зависимости:
 - Flask - создания веб-сервера
 - requests - HTTP-запросы
